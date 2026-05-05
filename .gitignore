@@ -1,0 +1,8 @@
+bin/ 
+obj/ 
+*.sqlite 
+*.db 
+*.suo 
+*.user 
+.vs/ 
+packages/ 
