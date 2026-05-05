@@ -33,7 +33,3 @@ Direct form opens. Sample data auto-creates.
 - C# WinForms
 - SQLite Database
 - .NET Framework
-
-## Date
-
-2024
